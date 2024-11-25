@@ -53,6 +53,6 @@ function sendSMS(phoneNumber, message) {
   req.end();
 }
 
-app.listen(PORT, () => {
-  console.log(`Server is running on http://localhost:${PORT}`);
-});
+/// Example usage:
+sendSMS('639129121191', 'This is a test message from the Infobip API.');
+      
