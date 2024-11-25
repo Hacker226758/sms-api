@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "follow-redirects": "^1.15.9",
+    "fs": "^0.0.1-security"
+  }
+}
