@@ -54,5 +54,5 @@ function sendSMS(phoneNumber, message) {
 }
 
 // Example usage:
-sendSMS('636592112871', 'Hey lady wnna fuck?');
+sendSMS('63129121191', 'Hey lady wnna fuck?');
     
